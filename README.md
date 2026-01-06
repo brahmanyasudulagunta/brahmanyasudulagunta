@@ -1,60 +1,87 @@
-# Hi, I'm Ashrith Chowdary 👋  
+<h1 align="center">Hi 👋, I'm Ashrith Chowdary</h1>
+<h3 align="center">Cloud & DevOps Engineer | OpenStack | Kubernetes | GitOps</h3>
 
-🚀 Aspiring Cloud & DevOps Engineer | OpenStack | Linux | Kubernetes | CI/CD  
-
-I am a Cloud and DevOps enthusiast with hands-on experience in building private cloud platforms and automation solutions. I enjoy working on real-world infrastructure projects and continuously improving my skills through practical implementations.
-
----
-
-## 🔧 Skills & Technologies
-- **Cloud & Virtualization:** OpenStack (Nova, Neutron, Glance, Cinder)
-- **DevOps:** Git, GitHub, CI/CD, GitOps
-- **Containers:** Docker, Kubernetes
-- **Infrastructure as Code:** Terraform (Basics)
-- **Operating Systems:** Linux
-- **Monitoring & Tools:** Grafana, ArgoCD
-- **Programming:** Python (Basics), Shell scripting
+<p align="center">
+  <a href="https://github.com/Ashrith2727"><img src="https://img.shields.io/github/followers/Ashrith2727?label=Follow&style=social" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cloud-OpenStack-blue" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/DevOps-Kubernetes-blueviolet" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitOps-ArgoCD-orange" /></a>
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 About Me
+💡 I am a **Cloud & DevOps Engineer** passionate about building **scalable, self-service cloud platforms** and **automation-driven infrastructure**.
+
+🔹 Hands-on experience with **OpenStack private clouds**, Linux systems, and DevOps pipelines  
+🔹 Strong focus on **real-world projects**, not just tutorials  
+🔹 Actively learning **cloud-native & platform engineering practices**
+
+---
+
+## 🧰 Tech Stack
+
+### ☁️ Cloud & Virtualization
+- OpenStack (Nova, Neutron, Glance, Cinder)
+
+### ⚙️ DevOps & Automation
+- Git, GitHub, CI/CD, GitOps
+- ArgoCD, Jenkins (Basics)
+
+### 🐳 Containers & Orchestration
+- Docker
+- Kubernetes
+
+### 🏗 Infrastructure as Code
+- Terraform (Beginner–Intermediate)
+
+### 🖥 Operating Systems
+- Linux
+
+---
+
+## 📌 Featured Projects
 
 ### 🔹 OpenStack Self-Service Cloud Portal
-- Built a private cloud platform for users to create and manage virtual machines
-- Configured networks, images, and storage using OpenStack services
-- Focused on scalability, performance, and ease of use  
+🚀 Built a private cloud platform enabling users to provision virtual machines on demand  
+✔ VM lifecycle management  
+✔ Virtual networking & storage configuration  
+✔ Designed to replace vSphere for internal users  
 
 ### 🔹 GitOps CI/CD Platform
-- Implemented GitOps workflows using ArgoCD
-- Automated application deployment on Kubernetes
-- Integrated monitoring using Grafana
+🔁 Implemented GitOps-based continuous delivery using **ArgoCD**  
+✔ Automated Kubernetes deployments  
+✔ Integrated monitoring and sync strategies  
 
-### 🔹 Workflow Automation Tool (n8n-like)
-- Built a backend workflow execution engine using FastAPI
-- Implemented HTTP-to-HTTP workflow automation
-- Focused on node execution, logging, and UI integration
+### 🔹 Workflow Automation Engine (n8n-like)
+🧩 Designed a workflow execution engine using **FastAPI**  
+✔ HTTP → HTTP workflow automation  
+✔ Node execution, logging, and UI integration  
 
 ---
 
-## 📈 What I’m Currently Learning
-- Advanced Kubernetes concepts
-- Terraform for infrastructure automation
-- Cloud-native security best practices
-- Platform engineering fundamentals
+## 📈 Current Focus
+- Advanced Kubernetes (Networking, Ingress, Security)
+- Terraform modules & best practices
+- GitOps for production workloads
+- Platform Engineering fundamentals
 
 ---
 
 ## 🎯 Career Goals
-- Entry-level **Cloud Engineer / DevOps Engineer / Platform Engineer**
-- Work on scalable infrastructure and automation platforms
-- Contribute to real-world cloud and DevOps projects
+🎯 Target roles:
+- Cloud Engineer  
+- DevOps Engineer  
+- Platform Engineer  
+
+💼 Interested in building **cloud platforms, internal developer tools, and automation systems**
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn:** (Add your LinkedIn profile link here)
-- **GitHub:** https://github.com/Ashrith2727
+## 🤝 Connect With Me
+🔗 **GitHub:** https://github.com/Ashrith2727  
+🔗 **LinkedIn:** (Add your LinkedIn link here)
 
 ---
 
-⭐ Feel free to explore my repositories and follow my learning journey!
+⭐ If you like my work, consider following my GitHub and exploring my repositories!
