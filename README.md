@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashrith Chowdary</h1>
+<h1 align="center">Hi 👋, I'm Brahmanya Asrit Sudulagunta</h1>
 <h3 align="center">Cloud & DevOps Engineer | OpenStack | Kubernetes | GitOps</h3>
 
 <p align="center">
