@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Brahmanya Asrit Sudulagunta</h1>
-<h3 align="center">Cloud & DevOps Engineer | OpenStack | Kubernetes | GitOps</h3>
+<h1 align="center">👋 Hi, I'm <strong>Brahmanya Asrit Sudulagunta</strong></h1>
+<h3 align="center">Cloud & DevOps Engineer • OpenStack • Kubernetes • GitOps</h3>
 
 <p align="center">
   <a href="https://github.com/Ashrith2727">
@@ -13,79 +13,88 @@
 ---
 
 ## 🚀 About Me
-💡 I am a **Cloud & DevOps Engineer** passionate about building **scalable private cloud platforms** and **automation-driven infrastructure**.
+I’m a **Cloud & DevOps Engineer** passionate about building **scalable private cloud platforms**, **automation-driven infrastructure**, and **cloud-native systems**.
 
-🔹 Hands-on experience with **OpenStack Yoga**, Linux systems, and DevOps pipelines  
-🔹 Worked on **real-world cloud infrastructure** supporting data-intensive workloads  
-🔹 Strong interest in **cloud-native and platform engineering**
+✨ What I bring:
+- Hands-on experience with **OpenStack Yoga**, Linux systems, and DevOps pipelines  
+- Built and maintained **real-world cloud infrastructure** for data-intensive workloads  
+- Strong interest in **platform engineering**, **Kubernetes**, and **GitOps workflows**
 
 ---
 
 ## 🧰 Tech Stack
 
 ### ☁️ Cloud & Virtualization
-- OpenStack (Nova, Neutron, Glance, Cinder, Swift)
-- AWS (Basics)
+- **OpenStack** (Nova, Neutron, Glance, Cinder, Swift)
+- **AWS** (Foundational)
 
 ### ⚙️ DevOps & Automation
-- Git, GitHub, CI/CD
-- Jenkins, GitOps
-- ArgoCD, Prometheus, Grafana
+- Git, GitHub, CI/CD  
+- Jenkins, GitOps  
+- ArgoCD, Prometheus, Grafana  
 
 ### 🐳 Containers & Orchestration
-- Docker
-- Kubernetes
+- Docker  
+- Kubernetes  
 
 ### 🏗 Infrastructure & Backend
-- Terraform (Basics)
-- FastAPI, REST APIs
+- Terraform (Basics)  
+- FastAPI, REST APIs  
 - Linux (Ubuntu, CentOS)
 
 ### 💻 Programming
-- Python, Java, JavaScript, Bash, SQL
+- Python, Java, JavaScript, Bash, SQL  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 OpenStack Self-Service Cloud Portal
-🚀 Built a private cloud platform enabling on-demand VM provisioning  
-✔ VM lifecycle management  
+### 🔹 OpenStack Self‑Service Cloud Portal
+A private cloud platform enabling **on‑demand VM provisioning**  
+✔ VM lifecycle automation  
 ✔ Virtual networking, storage, and security  
-✔ Designed to replace vSphere for internal users  
+✔ Designed as an internal alternative to vSphere  
+
+---
 
 ### 🔹 GitOps CI/CD Platform
-🔁 Implemented GitOps-based continuous delivery using **ArgoCD**  
+Implemented GitOps‑based delivery using **ArgoCD**  
 ✔ Automated Kubernetes deployments  
-✔ Integrated monitoring with Prometheus & Grafana  
+✔ Monitoring with Prometheus & Grafana  
 
-### 🔹 Workflow Automation Engine (n8n-like)
-🧩 Built a workflow execution engine using **FastAPI**  
-✔ HTTP → HTTP workflow automation  
-✔ Node execution, logging, and UI integration  
+---
 
-### 🔹 RAG-Powered Knowledge Assistant
-🤖 Built a Retrieval-Augmented Generation system using **ChromaDB + Gemini API**  
+### 🔹 DevPlatform – Internal Developer Platform (IDP)
+A platform engineering solution designed to streamline developer workflows  
+✔ Self-service environment provisioning  
+✔ Automated CI/CD pipelines  
+✔ Centralized observability & GitOps-driven operations  
+✔ Built to improve developer productivity and platform reliability  
+
+---
+
+### 🔹 RAG‑Powered Knowledge Assistant
+Developed a Retrieval‑Augmented Generation system using **ChromaDB + Gemini API**  
 ✔ PDF & log ingestion  
-✔ Vector search with context-aware responses  
+✔ Vector search with context‑aware responses  
 
 ---
 
 ## 📈 Current Focus
-- Advanced Kubernetes (Networking, Security)
-- Terraform & infrastructure automation
-- GitOps for production workloads
-- Platform engineering fundamentals
+- Advanced Kubernetes (Networking, Security)  
+- Terraform & infrastructure automation  
+- GitOps for production systems  
+- Platform engineering fundamentals  
 
 ---
 
 ## 🎯 Career Goals
-🎯 Target roles:
+Target roles:  
 - Cloud Engineer  
 - DevOps Engineer  
 - Platform Engineer  
 
-💼 Interested in building **cloud platforms, internal developer tools, and automation systems**
+I’m passionate about building **cloud platforms, internal developer tools, and automation systems** that empower engineering teams.
 
 ---
 
@@ -95,5 +104,8 @@
 
 ---
 
-⭐ Feel free to explore my repositories and follow my learning journey!
+<div align="center">
 
+⭐ <strong>Thanks for visiting — feel free to explore my repositories and follow my journey!</strong>
+
+</div>
