@@ -67,25 +67,25 @@ I enjoy solving infrastructure problems by **building real systems**, breaking t
 
 ## 📌 Selected Projects
 
-System and Infra Metrics Dashboard
-Containerized DevOps observability platform using Prometheus, Node Exporter, FastAPI, and Grafana to monitor CPU, memory, disk, network, and custom application metrics (Docker Compose–based).
+- **System and Infra Metrics Dashboard**
+  Containerized DevOps observability platform using Prometheus, Node Exporter, FastAPI, and Grafana to monitor CPU, memory, disk, network, and custom application metrics (Docker Compose–based).
 
-End-to-End Kubernetes CI/CD Platform
-GitOps-based CI/CD implementation using ArgoCD where Git acts as the single source of truth for Kubernetes deployments, enabling automated sync, rollout, and rollback.
+- **End-to-End Kubernetes CI/CD Platform**
+  GitOps-based CI/CD implementation using ArgoCD where Git acts as the single source of truth for Kubernetes deployments, enabling automated sync, rollout, and rollback.
 
-GitOps Platform Engineering
-Internal Developer Platform (IDP) focused on self-service workflows, CI/CD automation, GitOps-driven deployments, and centralized observability to improve developer productivity.
+- **GitOps Platform Engineering**
+  Internal Developer Platform (IDP) focused on self-service workflows, CI/CD automation, GitOps-driven deployments, and centralized observability to improve developer productivity.
 
-Building a Virtualized Cloud with OpenStack
-Full-scale OpenStack Yoga private cloud deployment implementing compute (Nova), networking (Neutron), storage (Cinder, Swift), identity (Keystone), orchestration (Heat), and monitoring for a self-service IaaS platform.
+- **Building a Virtualized Cloud with OpenStack**
+  Full-scale OpenStack Yoga private cloud deployment implementing compute (Nova), networking (Neutron), storage (Cinder, Swift), identity (Keystone), orchestration (Heat), and monitoring for a self-service IaaS    platform.
 
-Gemini GenAI Chatbot
-Built an AI chatbot using React + Vite integrated with Gemini Flash API for real-time responses.
-Containerized the application using Docker and implemented Jenkins CI/CD pipelines to automate builds, image creation, and deployments for consistent releases.
+- **Gemini GenAI Chatbot**
+  Built an AI chatbot using React + Vite integrated with Gemini Flash API for real-time responses.
+  Containerized the application using Docker and implemented Jenkins CI/CD pipelines to automate builds, image creation, and deployments for consistent releases.
 
-RAG-Powered Knowledge Assistant
-Developed a Retrieval-Augmented Generation (RAG) chatbot that ingests PDFs, system logs, and local documents to generate context-aware answers.
-Implemented ChromaDB for vector storage and similarity search, and integrated Gemini API to ground LLM responses with retrieved data.
+- **RAG-Powered Knowledge Assistant**
+  Developed a Retrieval-Augmented Generation (RAG) chatbot that ingests PDFs, system logs, and local documents to generate context-aware answers.
+  Implemented ChromaDB for vector storage and similarity search, and integrated Gemini API to ground LLM responses with retrieved data.
 
 ---
 
