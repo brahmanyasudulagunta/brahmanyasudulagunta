@@ -2,9 +2,9 @@
 <h3 align="center">Cloud & DevOps Engineer • OpenStack • Kubernetes • GitOps</h3>
 
 <p align="center">
-  <!-- Profile Links -->
+  <!-- Profile Links (clickable, no counters) -->
   <a href="https://github.com/Ashrith2727">
-    <img src="https://img.shields.io/github/followers/Ashrith2727?label=Follow&style=social" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/brahmanyasudulagunta">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
@@ -14,6 +14,7 @@
 <p align="center">
   <!-- Cloud & DevOps -->
   <img src="https://img.shields.io/badge/Cloud-OpenStack-blue" />
+  <img src="https://img.shields.io/badge/Cloud-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Containers-Docker-blue" />
   <img src="https://img.shields.io/badge/Orchestration-Kubernetes-blueviolet" />
   <img src="https://img.shields.io/badge/GitOps-ArgoCD-orange" />
@@ -28,7 +29,7 @@
 </p>
 
 <p align="center">
-  <!-- OS & Scripting -->
+  <!-- OS & Programming -->
   <img src="https://img.shields.io/badge/OS-Linux-black" />
   <img src="https://img.shields.io/badge/Scripting-Bash-green" />
   <img src="https://img.shields.io/badge/Language-Python-blue" />
