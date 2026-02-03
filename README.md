@@ -88,11 +88,8 @@ Developed a Retrieval‑Augmented Generation system using **ChromaDB + Gemini AP
 
 ---
 
-## 🎯 Career Goals
-Target roles:  
-- Cloud Engineer  
-- DevOps Engineer  
-- Platform Engineer  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashrith2727&theme=github-dark)
+
 
 I’m passionate about building **cloud platforms, internal developer tools, and automation systems** that empower engineering teams.
 
