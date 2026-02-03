@@ -38,7 +38,7 @@ I’m a DevOps-focused engineer with a strong foundation in Linux and a growing 
 
 My recent work includes building CI/CD pipelines, GitOps workflows with Kubernetes, monitoring systems using Prometheus and Grafana, and containerized applications. I enjoy working on infrastructure problems and improving developer workflows through automation.
 
-I learn best by building and experimenting with real systems, and I’m actively deepening my skills in DevOps, Linux, and cloud technologies.
+I learn best by building and experimenting with real systems, and I’m actively deepening my skills in DevOps, Linux, and Virtualization.
 
 ## 🧰 Core Skill Set
 
