@@ -120,7 +120,7 @@ Developed a Retrieval‑Augmented Generation system using **ChromaDB + Gemini AP
 - Platform engineering fundamentals  
 
 ---
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashrith2727&theme=github-dark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashrith2727&theme=github-dark)
 
 
