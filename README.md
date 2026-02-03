@@ -34,16 +34,11 @@
 ---
 
 ## 🚀 About Me
-I’m a **Cloud & DevOps Engineer** focused on building **reliable infrastructure**, **automation-driven platforms**, and **self-service systems** for engineering teams.
+I’m a DevOps-focused engineer with a strong foundation in Linux and a growing interest in cloud and platform engineering.
 
-I’ve worked hands-on with:
-- **Private cloud infrastructure** using OpenStack (compute, networking, storage)
-- **CI/CD and GitOps workflows** for Kubernetes-based systems
-- **Monitoring and observability** for production-like environments
+My recent work includes building CI/CD pipelines, GitOps workflows with Kubernetes, monitoring systems using Prometheus and Grafana, and containerized applications. I enjoy working on infrastructure problems and improving developer workflows through automation.
 
-I enjoy solving infrastructure problems by **building real systems**, breaking them, fixing them, and improving reliability through automation.
-
----
+I learn best by building and experimenting with real systems, and I’m actively deepening my skills in DevOps, Linux, and cloud technologies.
 
 ## 🧰 Core Skill Set
 
