@@ -67,45 +67,25 @@ I enjoy solving infrastructure problems by **building real systems**, breaking t
 
 ## 📌 Selected Projects
 
-### 🔹 OpenStack Private Cloud Platform
-Designed and operated a **self-service private cloud** for VM provisioning and infrastructure management.
+System and Infra Metrics Dashboard
+Containerized DevOps observability platform using Prometheus, Node Exporter, FastAPI, and Grafana to monitor CPU, memory, disk, network, and custom application metrics (Docker Compose–based).
 
-**Highlights**
-- Deployed OpenStack Yoga with compute, networking, and storage services
-- Implemented tenant networks, floating IPs, security groups, and RBAC
-- Automated provisioning using orchestration templates
-- Focused on reliability, isolation, and operational visibility
+End-to-End Kubernetes CI/CD Platform
+GitOps-based CI/CD implementation using ArgoCD where Git acts as the single source of truth for Kubernetes deployments, enabling automated sync, rollout, and rollback.
 
----
+GitOps Platform Engineering
+Internal Developer Platform (IDP) focused on self-service workflows, CI/CD automation, GitOps-driven deployments, and centralized observability to improve developer productivity.
 
-### 🔹 GitOps-Driven Kubernetes Delivery
-Built a GitOps-based deployment workflow where **Git is the source of truth**.
+Building a Virtualized Cloud with OpenStack
+Full-scale OpenStack Yoga private cloud deployment implementing compute (Nova), networking (Neutron), storage (Cinder, Swift), identity (Keystone), orchestration (Heat), and monitoring for a self-service IaaS platform.
 
-**Highlights**
-- Kubernetes application deployments using ArgoCD
-- Declarative configuration and rollback workflows
-- Integrated monitoring for deployment health and cluster visibility
+Gemini GenAI Chatbot
+Built an AI chatbot using React + Vite integrated with Gemini Flash API for real-time responses.
+Containerized the application using Docker and implemented Jenkins CI/CD pipelines to automate builds, image creation, and deployments for consistent releases.
 
----
-
-### 🔹 DevOps Metrics & Observability Stack
-Created a **containerized observability platform** to monitor infrastructure and services.
-
-**Highlights**
-- Metrics collection using Prometheus & Node Exporter
-- Custom FastAPI metrics endpoints
-- Grafana dashboards for system-level visibility
-- Dockerized, reproducible local setup
-
----
-
-### 🔹 RAG-Based Knowledge Assistant
-Implemented a **Retrieval-Augmented Generation system** for querying documents and logs.
-
-**Highlights**
-- Document ingestion and vector indexing with ChromaDB
-- Context-aware responses using Gemini API
-- Designed modular retrieval and response pipeline
+RAG-Powered Knowledge Assistant
+Developed a Retrieval-Augmented Generation (RAG) chatbot that ingests PDFs, system logs, and local documents to generate context-aware answers.
+Implemented ChromaDB for vector storage and similarity search, and integrated Gemini API to ground LLM responses with retrieved data.
 
 ---
 
