@@ -2,13 +2,45 @@
 <h3 align="center">Cloud & DevOps Engineer • OpenStack • Kubernetes • GitOps</h3>
 
 <p align="center">
+  <!-- Profile Links -->
   <a href="https://github.com/Ashrith2727">
     <img src="https://img.shields.io/github/followers/Ashrith2727?label=Follow&style=social" />
   </a>
-  <img src="https://img.shields.io/badge/Cloud-OpenStack-blue" />
-  <img src="https://img.shields.io/badge/DevOps-Kubernetes-blueviolet" />
-  <img src="https://img.shields.io/badge/GitOps-ArgoCD-orange" />
+  <a href="https://www.linkedin.com/in/brahmanyasudulagunta">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/Cloud-OpenStack-blue" />
+  <img src="https://img.shields.io/badge/Containers-Docker-blue" />
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-blueviolet" />
+  <img src="https://img.shields.io/badge/GitOps-ArgoCD-orange" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins-red" />
+</p>
+
+<p align="center">
+  <!-- Infra & Monitoring -->
+  <img src="https://img.shields.io/badge/IaC-Terraform-623CE4" />
+  <img src="https://img.shields.io/badge/Monitoring-Prometheus-E6522C" />
+  <img src="https://img.shields.io/badge/Visualization-Grafana-F46800" />
+</p>
+
+<p align="center">
+  <!-- OS & Scripting -->
+  <img src="https://img.shields.io/badge/OS-Linux-black" />
+  <img src="https://img.shields.io/badge/Scripting-Bash-green" />
+  <img src="https://img.shields.io/badge/Language-Python-blue" />
+</p>
+
+<p align="center">
+  <!-- Backend & GenAI -->
+  <img src="https://img.shields.io/badge/Backend-FastAPI-009688" />
+  <img src="https://img.shields.io/badge/VectorDB-ChromaDB-purple" />
+  <img src="https://img.shields.io/badge/LLM-Gemini_API-lightgrey" />
+</p>
+
 
 ---
 
