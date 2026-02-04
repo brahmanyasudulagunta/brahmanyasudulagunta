@@ -92,9 +92,8 @@ I learn best by building and experimenting with real systems, and I’m actively
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashrith2727&theme=github-dark&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashrith2727&show_icons=true&theme=github_dark)
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashrith2727&theme=github-dark" />
