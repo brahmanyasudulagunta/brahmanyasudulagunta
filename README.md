@@ -93,7 +93,7 @@ I learn best by building and experimenting with real systems, and I’m actively
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?username=Ashrith2727&theme=github-dark" />
+  <img src="https://streak-stats.demolab.com?user=Ashrith2727&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
