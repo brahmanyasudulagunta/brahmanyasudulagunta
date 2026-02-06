@@ -92,6 +92,7 @@ I learn best by building and experimenting with real systems, and I’m actively
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashrith2727)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashrith2727&theme=github-dark" />
