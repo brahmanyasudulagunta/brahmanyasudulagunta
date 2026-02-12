@@ -93,12 +93,12 @@ I learn best by building and experimenting with real systems, and I’m actively
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashrith2727&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=brahmanyasudulagunta&theme=dark&hide_border=true" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashrith2727&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brahmanyasudulagunta&theme=github-dark" />
 </p>
 
 ---
