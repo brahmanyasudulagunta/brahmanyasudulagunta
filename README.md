@@ -104,7 +104,7 @@ I learn best by building and experimenting with real systems, and I’m actively
 ---
 
 ## 🤝 Connect
-- **GitHub:** https://github.com/Ashrith2727  
+- **GitHub:** https://github.com/brahmanyasudulagunta 
 - **LinkedIn:** https://www.linkedin.com/in/brahmanyasudulagunta  
 
 <div align="center">
