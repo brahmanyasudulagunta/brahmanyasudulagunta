@@ -92,7 +92,9 @@ I learn best by building and experimenting with real systems, and I’m actively
 
 ---
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=brahmanyasudulagunta&theme=dark&hide_border=true" />
+</p>
 
 
 <p align="center">
