@@ -33,34 +33,34 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I’m a DevOps-focused engineer with a strong foundation in Linux and a growing interest in cloud and platform engineering.
 
 My recent work includes building CI/CD pipelines, GitOps workflows with Kubernetes, monitoring systems using Prometheus and Grafana, and containerized applications. I enjoy working on infrastructure problems and improving developer workflows through automation.
 
 I learn best by building and experimenting with real systems, and I’m actively deepening my skills in DevOps, Linux, and Virtualization.
 
-## 🧰 Core Skill Set
+##  Core Skill Set
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 - OpenStack (Nova, Neutron, Cinder, Glance, Swift)
 - Google Cloud Platform (Foundational)
 - Linux systems (Ubuntu, CentOS)
 
-### ⚙️ DevOps & Platform
+### DevOps & Platform
 - CI/CD pipelines (Jenkins)
 - GitOps workflows (ArgoCD)
 - Infrastructure as Code (Terraform – foundational)
 - Monitoring & observability (Prometheus, Grafana)
 
-### 🐳 Containers & Backend
+### Containers & Backend
 - Docker, Kubernetes
 - FastAPI, REST APIs
 - Python, Bash, SQL
 
 ---
 
-## 📌 Selected Projects
+## Selected Projects
 
 - **System and Infra Metrics Dashboard**
   Containerized DevOps observability platform using Prometheus, Node Exporter, FastAPI, and Grafana to monitor CPU, memory, disk, network, and custom application metrics (Docker Compose–based).
@@ -84,7 +84,7 @@ I learn best by building and experimenting with real systems, and I’m actively
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 - Kubernetes networking & security fundamentals  
 - Terraform workflows and modular infrastructure  
 - GitOps patterns for production environments  
@@ -104,7 +104,8 @@ I learn best by building and experimenting with real systems, and I’m actively
 ---
 
 ## 🤝 Connect
-- **LinkedIn:** https://www.linkedin.com/in/brahmanyasudulagunta  
+- **LinkedIn:** https://www.linkedin.com/in/brahmanyasudulagunta
+- **Portfolio:** https://brahmanya.com/
 
 <div align="center">
   ⭐ <strong>Thanks for visiting — feel free to explore my repositories.</strong>
