@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <strong>Brahmanya Asrit Sudulagunta</strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>Asrit S</strong></h1>
 <h3 align="center">Cloud & DevOps Engineer • OpenStack • Kubernetes • Platform Engineering</h3>
 
 <p align="center">
